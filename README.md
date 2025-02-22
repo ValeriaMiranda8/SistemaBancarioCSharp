@@ -22,7 +22,7 @@ Antes de comenzar, asegúrate de tener instalado:
 - [.NET SDK](https://dotnet.microsoft.com/download) (versión 6.0 o superior).
 - Un editor de código como [Visual Studio](https://visualstudio.microsoft.com/) o [Visual Studio Code](https://code.visualstudio.com/).
  
-**💻 Uso** //
+**💻 Uso** 
 Una vez que el proyecto esté en ejecución, podrás realizar las siguientes acciones:
 
 📝 Crear una cuenta
